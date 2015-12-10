@@ -1,2 +1,2 @@
-# php-mongo-x-orm
-A simple ORM for Mongo
+# php-mongo-x-odm
+A simple ODM for Mongo
