@@ -1,14 +1,14 @@
 {
-  "name": "GRA2012/php-mongo-x-orm",
+  "name": "GRA2012/php-mongo-x-odm",
   "author": {
     "name": "Guilherme Almeida",
     "url": "http://mrgra.com"
   },
   "license": "BSD",
-  "description": "MongoDb PHP ODM is a simple ORM for PHP driver classes which makes using Mongo in your PHP application more Simple.",
-  "keywords": ["mongodb","mongo","php","orm"],
-  "homepage": "https://github.com/GRA2012/php-mongo-x-orm",
-  "bugs": {"url": "https://github.com/GRA2012/php-mongo-x-orm/issues"},
+  "description": "MongoDb PHP ODM is a simple ODM for PHP driver classes which makes using Mongo in your PHP application more Simple.",
+  "keywords": ["mongodb","mongo","php","odm"],
+  "homepage": "https://github.com/GRA2012/php-mongo-x-odm",
+  "bugs": {"url": "https://github.com/GRA2012/php-mongo-x-odm/issues"},
   "version": "1.0",
   "autoload": {
     "classmap": ["classes/"]
